@@ -8,7 +8,8 @@
 虽是主讲 React ，然管中窥豹，前端主流生态也已经蕴含其中：webpack、babel、gulp...适合开始学习模块化开发的同学   
 但是讲真，里面的代码太老了，webpack都是三年前的版本了……都已经不能用了，按照其配置文件配置然后一运行 ```webpack``` 命令，终端红成小龙虾，特别是 babel 配置，抛出一大堆错误   
 所以，抛玉引玉，再安利一波这个B乎大佬的文章：[babel模块发展史](https://zhuanlan.zhihu.com/p/44174870)   
-如果要学习 ```webpack``` 的话，其实把 ```webpack``` 官网 Demo 跑一遍就好了，网上很多博客教程版本太老，棺材版本了，所以还是：[webpack 官方出品，品质有保障](https://www.webpackjs.com/guides/) 
+~~如果要学习 ```webpack``` 的话，其实把 ```webpack``` 官网 Demo 跑一遍就好了，网上很多博客教程版本太老，棺材版本了，所以还是：[webpack 官方出品，品质有保障](https://www.webpackjs.com/guides/).~~  
+我错了， ```webpack``` 官网的 Demo 有一部分版本也已经落后了，也有很多坑，所以安利一个大佬的的一个基础的 ```webpack``` 专栏教学：[Zsh's webpack4 basic tutorials](https://itxiaohao.github.io/blog/webpack/webpack4-first.html)
 - [JS 基础深入](https://github.com/mqyqingfeng/Blog)   
 风之积也不厚，则其负大翼也无力，欲抟扶摇而上者九万里，则需积大风而上，风即基础，基础懂了，空间就大了
 - [JS 基础学习代码合集](https://github.com/stephentian/33-js-concepts)   
